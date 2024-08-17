@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I’m currently learning python with github copilot
+### I’m currently learning python with github copilot
+```
+Print('Hello world!')
+```
